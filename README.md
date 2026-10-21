@@ -8,8 +8,13 @@ Offline Flutter app for browsing Malaysian wildflowers from the LIAR.KL catalogu
 - Search by species name
 - Species detail pages with habitat, season, and conservation status
 - Full-screen photo viewing
-- Favourites
+- Save species to a personal collection (Simpan Koleksi)
 - Herbarium view
+- List and grid layouts
+
+## Upcoming
+
+- Plant recognition from photos (Pengecaman tab and camera button). Planned, not yet implemented.
 
 ## Screenshots
 
