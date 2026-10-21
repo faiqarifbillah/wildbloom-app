@@ -15,6 +15,7 @@ Offline Flutter app for browsing Malaysian wildflowers from the LIAR.KL catalogu
 ## Upcoming
 
 - Plant recognition from photos (Pengecaman tab and camera button). Planned, not yet implemented.
+- Distribution map (Peta Taburan). Placeholder for now.
 
 ## Screenshots
 
